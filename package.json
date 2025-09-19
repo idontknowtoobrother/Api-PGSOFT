@@ -35,7 +35,7 @@
       "node-schedule": "^2.1.1",
       "pino": "^8.17.2",
       "pino-pretty": "^10.3.1",
-      "puppeteer": "^22.0.0",
+      "puppeteer": "^22.15.0",
       "redis": "^4.6.13",
       "request": "^2.88.2",
       "request-promise-native": "^1.0.9",
